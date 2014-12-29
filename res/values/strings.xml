@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Using the Native Content Provider-Garage</string>
+    <string name="app_name">Garage</string>
+<string name="viewButton">View Cars</string>
+<string name="createButton">Add Car</string>
+<string name="updateButton">Modify Cars</string>
+<string name="deleteButton">Delete Car</string>
+</resources>
